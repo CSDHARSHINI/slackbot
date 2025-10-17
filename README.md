@@ -1,2 +1,2 @@
-SLACKBOT - A KEYWORDS TOOL
+SLACKBOT -
  To help the content team to streamline keyword-based content creation.
